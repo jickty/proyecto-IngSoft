@@ -1,0 +1,55 @@
+8
+
+dir
+216
+http://svn.infos.com.mx:8080/svn/ASI-PM/procesos
+http://svn.infos.com.mx:8080/svn/ASI-PM
+
+
+
+2009-11-16T06:06:48.046875Z
+216
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d90a5c51-e817-cd4b-81da-86a8fdb61fa7
+
+CM
+dir
+
+PMC
+dir
+
+PP
+dir
+
+PPQA
+dir
+
+OPF
+dir
+
+REQM
+dir
+
+RD
+dir
+
+VERYVAL
+dir
+
+MA
+dir
+
